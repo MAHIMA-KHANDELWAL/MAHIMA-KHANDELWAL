@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MAHIMA-KHANDELWAL
 - 👀 I’m interested in Leaning Backend development 
-- Currently learning API
+-  Currently learning API
 - 📫 How to reach me ... mahimakhandelwal155@gmail.com
   
 
